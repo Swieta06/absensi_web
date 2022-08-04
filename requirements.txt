@@ -1,0 +1,14 @@
+streamlit
+secrets
+cmake
+dlib
+face_recognition
+datetime
+pillow
+pandas
+numpy
+opencv-python
+os-sys
+python-csv
+temp
+pytest-shutil
