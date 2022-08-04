@@ -12,3 +12,4 @@ python-csv
 temp
 os-sys
 pytest-shutil
+secrets
