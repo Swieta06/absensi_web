@@ -11,4 +11,4 @@ opencv-python==4.5.5.64
 os-sys
 python-csv
 temp
-psutil 5.9.0
+
