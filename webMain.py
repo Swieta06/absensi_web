@@ -3,6 +3,7 @@ from ast import Break
 import streamlit.components.v1 as components
 from secrets import choice
 import streamlit as st
+from OpenSSL import SSL
 
 #opencv library
 import face_recognition
