@@ -1,14 +1,14 @@
-streamlit
+streamlit==1.7.0
 secrets
-cmake
-dlib
-face_recognition
+cmake==3.22.3
+dlib==19.22.99
+face_recognition==1.3.0
 datetime
-pillow
-pandas
-numpy
-opencv-python
+pillow==9.0.1
+pandas==1.4.1
+numpy==1.22.3
+opencv-python==4.5.5.64
 os-sys
 python-csv
 temp
-pytest-shutil
+psutil 5.9.0
