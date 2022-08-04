@@ -13,3 +13,4 @@ temp
 os-sys
 pytest-shutil
 secrets
+pyOpenSSL
