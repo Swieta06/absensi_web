@@ -1,4 +1,3 @@
-setuptools<58.0.0
 streamlit==1.7.0
 cmake==3.22.3
 dlib
@@ -11,3 +10,4 @@ numpy==1.22.3
 opencv-python==4.5.5.64
 python-csv
 temp
+setuptools<58.0.0
