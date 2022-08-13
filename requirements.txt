@@ -1,11 +1,11 @@
-cmake==3.22.3
+cmake
 dlib
-face-recognition==1.3.0
-face-recognition-models==0.3.0
+face-recognition
+face-recognition-models
 datetime
-pillow==9.0.1
-pandas==1.4.1
-numpy==1.22.3
+pillow
+pandas
+numpy
 opencv-python==4.5.5.64
 python-csv
 temp
