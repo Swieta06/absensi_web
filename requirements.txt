@@ -4,3 +4,5 @@ opencv_python==4.5.5.64
 pandas==1.4.1
 Pillow==9.2.0
 streamlit==1.7.0
+cmake==3.22.3
+dlib
