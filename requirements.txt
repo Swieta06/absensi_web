@@ -10,3 +10,4 @@ opencv-python==4.5.5.64
 python-csv
 setuptools~=57.5.0
 streamlit==1.7.0
+demjson3
