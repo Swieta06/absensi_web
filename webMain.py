@@ -1,5 +1,4 @@
 #WEB library
-from ast import Break
 import streamlit.components.v1 as components
 from secrets import choice
 import streamlit as st
@@ -15,7 +14,6 @@ import cv2
 import os
 import time
 from datetime import date 
-from csv import writer
 from tempfile import NamedTemporaryFile
 import shutil
 from csv import DictReader, DictWriter
